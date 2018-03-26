@@ -5,9 +5,9 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-    <header class="nabar navbar-fixed-top navabar-inverse">
+    <header class="navbar navbar-fixed-top navbar-inverse">
         <div class="container">
-            <div class="col-md offset-1 col md 10">
+            <div class="col-md offset-1 col-md 10">
             <a href="/" id="logo">Sample app</a></div>
              <nav>
                <ul class="nav navbar-nav navbar-right">
