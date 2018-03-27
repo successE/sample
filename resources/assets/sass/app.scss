@@ -79,35 +79,34 @@ footer {
     color: #777;
 
     a {
-        color: #555;
+      color: #555;
     }
 
     a:hover {
-        color: #222;
+      color: #222;
     }
 
     small {
-        float: left;
+      float: left;
     }
 
-
     ul {
-        float: right;
-        list-style: none;
+      float: right;
+      list-style: none;
 
-        li {
-            float: left;
-            margin-left: 15px;
-        }
+      li {
+        float: left;
+        margin-left: 15px;
+      }
     }
 
     img.brand-icon {
-        width: 17px;
-        height: 17px;
+      width: 17px;
+      height: 17px;
     }
 
     .slogon {
-        font-size: 13px;
-        font-weight: bold;
+      font-size: 13px;
+      font-weight: bold;
     }
-}
+  }
