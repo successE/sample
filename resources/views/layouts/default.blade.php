@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>@yield('title','App Sample') - Laravel 新手入门教程</title>
+    <title>@yield('title','App Sample') - Laravel </title>
     <link rel="stylesheet" href="/css/app.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
  @include('layouts._header')
